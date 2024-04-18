@@ -34,3 +34,32 @@ Before diving into data, it’s crucial to align with your organization’s HR g
 - Compare the attrition rates in different departments such as Sales, R&D, and HR.
   
 <img width="1039" alt="Screenshot 2024-04-18 at 11 56 19" src="https://github.com/bahramkhanlarov/HR-Dashboard-Project-Power-BI/assets/94859755/7b5e9716-614c-4801-a1a6-5c291a6c2e4f">
+
+
+## HR Dashboard Overview 
+
+- Create Report Background in PowerPoint
+- Create Slicers – Department, Education Field, Business Travel, Gender, Job Role, Age Group.
+- Create KPI cards – Employee Count, Average Salary, Monthly Salary, Average Age, Average Salary Hike, Average Job Satisfaction Score, Gender Ration
+- Create Visuals:
+    - Employee Count by EducationField and Department
+    - Table Explaining different KPIs with respect to Job Role
+    - Employee Count by AgeGroup
+    - Average Salary and Employee Count by Age
+    - Monthly Salary by Department
+
+
+## HR Attrition Analysis
+
+- Create Report Background in PowerPoint
+- Create Slicers – Department, Education Field, Business Travel, Gender, Job Role, Age Group.
+- Create KPI cards - Attrition Count, Attrition Rate, Average Salary, Average Age
+- Create Gauge Charts – Attrition rate of Departments (Sales, R&D, and HR)
+- Create Visuals:
+    - Attrition Rate by BusinessTravel
+    - Attrition Rate by JobSatisfaction
+    - Attrition Rate by WorkLifeBalance
+    - Attrition Rate by MonthlyIncome
+    - Attrition Rate by Age
+    - Attrition Rate by Job Roles
+
