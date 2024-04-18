@@ -1,1 +1,35 @@
 
+Attrition Count = CALCULATE([Employee Count], HR_Analytics[Attrition]="Yes")
+
+
+DIVIDE ([Attrition Count],CALCULATE ( [Employee Count], ALL ( HR_Analytics[Attrition] ) ),0)
+
+
+Attrition Target = 0.2
+
+Average Age = AVERAGE(HR_Analytics[Age])
+
+
+Average Job Satisfaction = AVERAGE(HR_Analytics[JobSatisfaction])
+
+
+Average Salary = [Monthly Salary]/[Employee Count]
+
+Average Salary Hike = AVERAGE(HR_Analytics[PercentSalaryHike])
+
+
+Average Years = AVERAGE(HR_Analytics[YearsAtCompany])
+
+
+Employee Count = DISTINCTCOUNT(HR_Analytics[EmpID])
+
+
+Gender Ratio =
+DIVIDE (
+    CALCULATE ( [Employee Count], HR_Analytics[Gender] = "Female" ),
+    CALCULATE ( [Employee Count], HR_Analytics[Gender] = "Male" ),
+    0
+)
+
+
+Monthly Salary = SUM(HR_Analytics[MonthlyIncome])
