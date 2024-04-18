@@ -6,14 +6,15 @@ This dashboard will empower you to analyze key HR KPIs like Employee Count, Sala
 
 Here’s what we’ll cover in this end-to-end Power BI project:
 
-Step 1: Understanding Business Requirement
-Step 2: Import and explore the HR data set
-Step 3: Create a data model and relationships
-Step 4: Define the key performance indicators (KPIs) and DAX measures
-Step 5: Design the dashboard layout and visualizations
-Step 6: Add interactivity and functionality to the dashboard
-Step 7: Publish and share the dashboard
-Step 8: Drawing Insights from the Dashboard
+- Step 1: Understanding Business Requirement
+- Step 2: Import and explore the HR data set
+- Step 3: Create a data model and relationships
+- Step 4: Define the key performance indicators (KPIs) and DAX measures
+- Step 5: Design the dashboard layout and visualizations
+- Step 6: Add interactivity and functionality to the dashboard
+- Step 7: Publish and share the dashboard
+- Step 8: Drawing Insights from the Dashboard
+
 
 
 ## The Objective of the HR Dashboard | Business Problem |Business Requirement
