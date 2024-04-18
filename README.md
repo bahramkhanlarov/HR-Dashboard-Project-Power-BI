@@ -1,6 +1,7 @@
 # HR-Dashboard-Project-Power-BI
 
 https://app.powerbi.com/groups/me/reports/fe83ac00-6213-4be3-9a7f-62f744e5731c/ReportSection?experience=power-bi&bookmarkGuid=Bookmark6051fd2d1d10abb6ecc4
+![Uploading Screenshot 2024-04-18 at 11.53.10.png…]()
 
 This dashboard will empower you to analyze key HR KPIs like Employee Count, Salary, Gender Ratio, and attrition patterns, identify high-risk areas, and uncover the factors driving employee turnover.
 
