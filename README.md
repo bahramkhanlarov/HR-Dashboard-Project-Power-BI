@@ -32,3 +32,5 @@ Before diving into data, it’s crucial to align with your organization’s HR g
 - Gain insights into areas with high attrition rates to inform targeted retention strategies.
 - Analyze the attrition rate by various parameters including business travel, job satisfaction, marital status, work-life balance, monthly income, and age.
 - Compare the attrition rates in different departments such as Sales, R&D, and HR.
+  
+<img width="1039" alt="Screenshot 2024-04-18 at 11 56 19" src="https://github.com/bahramkhanlarov/HR-Dashboard-Project-Power-BI/assets/94859755/7b5e9716-614c-4801-a1a6-5c291a6c2e4f">
