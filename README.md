@@ -2,6 +2,15 @@
 
 https://app.powerbi.com/groups/me/reports/fe83ac00-6213-4be3-9a7f-62f744e5731c/ReportSection?experience=power-bi&bookmarkGuid=Bookmark6051fd2d1d10abb6ecc4
 
+├── DAX Formulas
+│   └── dax.txt
+├── Dataset
+│   ├── HR_Analytics.csv
+│   └── flx
+├── HR dashboard (1).pbix
+├── HR dashboard.pdf
+└── README.md
+
 <img width="1035" alt="Screenshot 2024-04-18 at 11 55 26" src="https://github.com/bahramkhanlarov/HR-Dashboard-Project-Power-BI/assets/94859755/50b3821a-b588-4797-ab35-799284f73dcc">
 
 This dashboard will empower you to analyze key HR KPIs like Employee Count, Salary, Gender Ratio, and attrition patterns, identify high-risk areas, and uncover the factors driving employee turnover.
