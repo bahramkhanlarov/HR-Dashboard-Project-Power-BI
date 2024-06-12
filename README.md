@@ -2,14 +2,8 @@
 
 https://app.powerbi.com/groups/me/reports/fe83ac00-6213-4be3-9a7f-62f744e5731c/ReportSection?experience=power-bi&bookmarkGuid=Bookmark6051fd2d1d10abb6ecc4
 
-├── DAX Formulas
-│   └── dax.txt
-├── Dataset
-│   ├── HR_Analytics.csv
-│   └── flx
-├── HR dashboard (1).pbix
-├── HR dashboard.pdf
-└── README.md
+<img width="198" alt="Screenshot 2024-06-12 at 22 19 37" src="https://github.com/bahramkhanlarov/HR-Dashboard-Project-Power-BI/assets/94859755/6cf92d5a-13de-4de8-876a-f1b09cec6d7d">
+
 
 <img width="1035" alt="Screenshot 2024-04-18 at 11 55 26" src="https://github.com/bahramkhanlarov/HR-Dashboard-Project-Power-BI/assets/94859755/50b3821a-b588-4797-ab35-799284f73dcc">
 
