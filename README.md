@@ -62,59 +62,30 @@ Before diving into data, it’s crucial to align with your organization’s HR g
     - Attrition Rate by MonthlyIncome
     - Attrition Rate by Age
     - Attrition Rate by Job Roles
+
+
  
-  ## Findings
+## Findings
 
 
-**Attrition Rate:**
 
-The employee attrition rate is 16%, which is higher than the industry average of 12%. The main reasons for attrition are low salaries, high workload, and lack of career growth opportunities.
+- The employee attrition rate is 16%, which is higher than the industry average of 12%.
 
+- The employee diversity and inclusion analysis reveals that there is a significant gap in gender representation, especially in HR, where only 33% are female. The education field is also dominated by Life Sciences & Medical, which accounts for more than 50% of the employees.
 
-**Reasons for Attrition:**
+- Total Employee Count: Correct, 1,233 employees.
+- Average Salary: Correct, $6,879.
+- Monthly Payroll: The monthly total payroll stated is $8M
+- The majority of employees are in the age groups 26-35 (490) and 36-45 (425).
+- The largest job role is Sales Executives (271)
+-  Managers ($17,201) and Research Directors ($15,947) have the highest average salaries.
+- The gender ratio is skewed at 68% male.
+- Attrition rates vary across departments, with Sales (21%), R&D (19%), and HR (14%) having the highest rates.
+- Among job roles, Sales Representatives (40%), Laboratory Technicians (24%), and Human Resources Specialists (23%) have the highest attrition rates.
+- Employees who travel frequently for business have a higher attrition rate (25%) compared to those who rarely travel (8%).
+- Employees who are dissatisfied with their jobs have a higher attrition rate (23%) compared to those who are satisfied (11%).
+- The average age of employees facing attrition is 34.
+- Attrition rates vary significantly based on job satisfaction levels; employees with lower job satisfaction have higher attrition rates.
+- Single employees face a higher rate of attrition compared to married or divorced employees.
 
-The employee diversity and inclusion analysis reveals that there is a significant gap in gender representation, especially in HR, where only 33% are female. The education field is also dominated by Life Sciences & Medical, which accounts for more than 50% of the employees.
-
-**Employee Count and Salaries:**
-
-Total Employee Count: Correct, 1,233 employees.
-Average Salary: Correct, $6,879.
-Monthly Payroll: The monthly total payroll stated as $8.5M is incorrect according to the dashboard. The correct figure from the dashboard is $8M.
-
-**Age Distribution:**
-
-the majority of employees are in the age groups 26-35 (490) and 36-45 (425).
-
-
-Job Roles:
-
-The largest job role is Sales Executives (271), not 269.
-The count for Research Scientists is not explicitly listed; however, Research Directors are counted as 78. If you mean Research Scientists generally in R&D, the number is not specified directly.
-Salaries by Job Role:
-
-Correct, Managers ($17,201) and Research Directors ($15,947) have the highest average salaries.
-Gender Ratio:
-
-Correct, the gender ratio is skewed at 68% male.
-Attrition Count and Rate:
-
-The dashboard does not explicitly provide a total attrition count or rate of 16%. This information is not visible.
-Attrition Rates by Department:
-
-The dashboard does not explicitly provide attrition rates by department.
-Attrition by Job Role:
-
-The dashboard does not explicitly provide attrition rates by job role such as Sales Representatives (40%), Laboratory Technicians (24%), and Human Resources Specialists (23%).
-Business Travel and Attrition:
-
-The dashboard does not provide information on attrition rates based on business travel frequency.
-Job Satisfaction and Attrition:
-
-The dashboard indicates overall job satisfaction but does not detail attrition rates based on job satisfaction levels.
-Age and Attrition:
-
-The dashboard does not specify the average age of employees facing attrition as 34.
-Marital Status and Attrition:
-
-The dashboard does not provide data on attrition rates based on marital status.
 
